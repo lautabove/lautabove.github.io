@@ -1,0 +1,10 @@
+.tjam {
+    color: rgba(0, 210, 0, 0.791);
+    
+}
+.tjam:hover {
+   color: rgb(12, 135, 12); 
+}
+.tv {
+    color: black;
+}
